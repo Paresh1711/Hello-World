@@ -1,0 +1,4 @@
+version: '3.1'
+network:
+network_mode: 
+- my-bridge-network
